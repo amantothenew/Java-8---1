@@ -1,1 +1,11 @@
-Q1
+Q1)Write the following a functional interface and implement it using lambda: 
+1. To check whether the first number is greater than second number or not, Parameter (int ,int ) Return type boolean
+2. Increment the number by 1 and return incremented value Parameter (int) Return int
+3. Concatination of 2 string Parameter (String , String ) Return (String)
+4. Convert a string to uppercase and return . Parameter (String) Return (String)
+
+Q2)Using (instance) Method reference create and apply add and subtract method and using (Static) Method reference create and apply multiplication method for the functional interface created
+
+Q3)Implement multiple inheritance with default method inside interface.
+
+Q4)Write a program to implement constructor reference
